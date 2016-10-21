@@ -1,6 +1,6 @@
 [submodule "GRAnalyzer"]
-	path = GRAnalyzer
-	url = git@github.com:CAGRA-GrandRaiden/GRAnalyzer.git
+        path = GRAnalyzer
+        url = https://github.com/nobukoba/GRAnalyzer.git
 [submodule "MPIEventLoop"]
-	path = MPIEventLoop
-	url = git@github.com:CAGRA-GrandRaiden/MPIEventLoop.git
+        path = MPIEventLoop
+        url = https://github.com/nobukoba/MPIEventLoop.git
